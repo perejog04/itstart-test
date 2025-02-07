@@ -1,4 +1,11 @@
-# Тестовое задание для Junior React Developer
+# Для запуска приложения использовать
+
+```
+npm i
+npm run start
+```
+
+## Тестовое задание для Junior React Developer
 
 ## Задание
 
