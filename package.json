@@ -9,7 +9,8 @@
 		"lint": "eslint .",
 		"preview": "vite preview",
 		"server": "json-server --watch seminars.json --port 5000",
-		"start": "start npm run dev && start npm run server"
+		"startW": "start npm run dev && start npm run server",
+		"startU": "npm run dev & npm run server"
 	},
 	"dependencies": {
 		"json-server": "^1.0.0-beta.3",

@@ -1,8 +1,17 @@
 # Для запуска приложения использовать
 
+- Windows
+
 ```
 npm i
-npm run start
+npm run startW
+```
+
+- UNIX
+
+```
+npm i
+npm run startU
 ```
 
 ## Тестовое задание для Junior React Developer
